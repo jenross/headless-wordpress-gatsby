@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jenross/headless-wordpress-gatsby#readme",
   "dependencies": {
+    "bluebird": "^3.7.2",
     "gatsby": "^2.22.9",
     "gatsby-source-wordpress": "^3.3.8",
     "react": "^16.13.1",
