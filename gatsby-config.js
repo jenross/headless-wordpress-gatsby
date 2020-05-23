@@ -24,7 +24,7 @@ module.exports = {
     //     background_color: `#663399`,
     //     theme_color: `#663399`,
     //     display: `minimal-ui`,
-    //     icon: `src/images/gatsby-icon.png`, 
+    //     icon: `src/images/gatsby-icon.png`,
     //   },
     // },
     {
@@ -116,9 +116,10 @@ module.exports = {
           "**/tags",
           "**/taxonomies",
           "**/users",
+          "**/*/*/menus",
         ],
         // Blacklisted routes using glob patterns
-        excludedRoutes: ["**/posts/1456"],
+        excludedRoutes: [],
         // Set this to keep media sizes.
         // This option is particularly useful in case you need access to
         // URLs for thumbnails, or any other media detail.
