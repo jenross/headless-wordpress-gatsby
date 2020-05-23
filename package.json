@@ -1,0 +1,25 @@
+{
+  "name": "headless-wordpress-gatsby",
+  "version": "1.0.0",
+  "description": "Gatsby site with a headless WordPress backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenross/headless-wordpress-gatsby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenross/headless-wordpress-gatsby/issues"
+  },
+  "homepage": "https://github.com/jenross/headless-wordpress-gatsby#readme",
+  "dependencies": {
+    "gatsby": "^2.22.9",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
