@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jenross/headless-wordpress-gatsby#readme",
   "dependencies": {
     "gatsby": "^2.22.9",
+    "gatsby-source-wordpress": "^3.3.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
